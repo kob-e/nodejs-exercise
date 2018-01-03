@@ -1,5 +1,5 @@
 {
-  "name": "Nodejs exercise",
+  "name": "Nodejs-exercise",
   "version": "1.0.0",
   "description": "",
   "main": "express.js",
@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/kob-e/nodejs-exercise#readme",
   "dependencies": {
-    "angularjs": "0.0.1",
+    "angular": "^1.6.8",
+    "angular-route": "^1.6.8",
     "body-parser": "^1.18.2",
+    "bootstrap": "^3.3.7",
     "express": "^4.16.2",
     "mysql": "^2.15.0"
   }
