@@ -8,7 +8,7 @@ Start an AngularJS app with the folowing files:
 - app.js
 - products
     - `products.view.html`
-    - `producrs.controller.js`
+    - `products.controller.js`
 - suppliers
     - `suppliers.view.html`
     - `suppliers.controller.js`
